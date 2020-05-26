@@ -1,0 +1,36 @@
+.container {
+  text-align: center;
+}
+
+.inside {
+  background-color: #d5d5d5;
+  padding: 30px;
+  display: inline-block;
+  margin: 30px;
+}
+
+h2 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  /* background-color: #b5b5b5; */
+  /* display: block; */
+}
+
+h3 {
+  margin: 0px;
+}
+
+.heading {
+  display: block;
+}
+
+.added {
+  padding: 5px;
+  margin: 5px;
+  align-content: center;
+}
+
+#listhistory {
+  background-color: #fff;
+  margin-top: 25px;
+}
